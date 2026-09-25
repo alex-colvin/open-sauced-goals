@@ -1,13 +1,13 @@
 [
   {
     "full_name": "npm/cli",
-    "stargazers_count": 10130,
-    "open_issues_count": 770,
-    "forks_count": 4755
+    "stargazers_count": 10147,
+    "open_issues_count": 789,
+    "forks_count": 4768
   },
   {
     "full_name": "allenai/allennlp",
-    "stargazers_count": 11881,
+    "stargazers_count": 11882,
     "open_issues_count": 91,
     "forks_count": 2203
   },
@@ -15,6 +15,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 947,
     "open_issues_count": 0,
-    "forks_count": 1181
+    "forks_count": 1182
   }
 ]
